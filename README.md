@@ -3,13 +3,6 @@
 ## 🚀 About Me
 I am a Computer Science student at Universidade Presbiteriana Mackenzie. This resume offers a glimpse into my proficiency in technology. I have a strong passion for coding and continuously seek out new challenges to expand my skills.
 
-## 🛠 Skills
-- Intermediate Python
-- Basic PHP
-- Intermediate C
-- Basic Java
-- Basic C++
-- Basic SQL
 
 ## 🔗 Links
 
